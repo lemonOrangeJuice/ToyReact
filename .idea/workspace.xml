@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/toy-react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="164" column="5" lean-forward="true" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+            <state relative-caret-position="259">
+              <caret line="163" column="31" lean-forward="true" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -135,12 +135,12 @@
       <updated>1602482317315</updated>
       <workItem from="1602482320827" duration="22199000" />
       <workItem from="1602659705179" duration="488000" />
-      <workItem from="1602727577283" duration="10122000" />
+      <workItem from="1602727577283" duration="10485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32809000" />
+    <option name="totallyTimeSpent" value="33172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,8 +230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/toy-react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="164" column="5" lean-forward="true" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+        <state relative-caret-position="259">
+          <caret line="163" column="31" lean-forward="true" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
         </state>
       </provider>
     </entry>
